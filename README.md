@@ -42,7 +42,7 @@ The Bulb On/Off Switch is a simple beginner-friendly JavaScript project that dem
 
 # Dhruv Solanki
 
-# Link of the Project : 
+# Link of the Project : https://dhruv24jicys008-oss.github.io/-Glowing-Bulb/
 
 # License
 
